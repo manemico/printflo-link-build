@@ -1,6 +1,6 @@
 {
   "name": "printflo-local",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "Printflo Local API",
   "main": "server.js",
   "scripts": {
