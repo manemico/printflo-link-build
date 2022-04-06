@@ -1,6 +1,6 @@
 {
   "name": "printflo-local",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "description": "Printflo Local API",
   "main": "server.js",
   "scripts": {
@@ -17,6 +17,7 @@
     "url": "https://github.com/printflo/local-apps.git"
   },
   "author": "Chang Han",
+  "license": "MIT",
   "dependencies": {
     "@serialport/parser-readline": "^1.0.5",
     "app-root-path": "^3.0.0",
